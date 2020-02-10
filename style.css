@@ -1,3 +1,8 @@
 body {
     background-color: rgb(182, 212, 230);
 }
+
+p.lainaus {
+    font-style: italic;
+    font-size: x-small;
+}
